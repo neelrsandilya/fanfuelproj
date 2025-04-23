@@ -4,7 +4,7 @@
 
 # Patreon clone/alternative- Fanfuel 
 
-I have created **Fanfuel** which is an web application built with [Next.js](https://nextjs.org/) designed to connect fans and creators where creators can create their Pages and fans can show support to their favourite Creators monetarily.
+I have created **Fanfuel**, a web application built with [Next.js](https://nextjs.org/) designed to connect fans and creators where creators can create their profile pages and fans can monetarily support their favorite Creators.
 
 ##  Features
 
