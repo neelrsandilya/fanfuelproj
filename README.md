@@ -1,6 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
+
+
+# Patreon clone/alternative- Fanfuel 
+
+I have created **Fanfuel** which is an web application built with [Next.js](https://nextjs.org/) designed to connect fans and creators where creators can create their Pages and fans can show support to their favourite Creators monetarily.
+
+##  Features
+
+-  Built with Next.js 14 
+-  Authentication- NextAuth
+-  Donation system (RazorPay integration)
+-  Fully API-driven with FetchAPI
+-  Styled with Tailwind CSS
+
+
+##  Tech Stack
+
+- **Frontend:** Next.js, React, JavaScript
+- **Styling:** Tailwind CSS / Styled Components
+- **Backend:** Node.js, API Routes 
+- **Database:** MongoDB 
+- **Auth:** NextAuth.js
+- **Payments:** Razorpay
+- **Hosting:** Vercel 
+
+##  Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/your-username/fanfuel.git
+cd fanfuel
 
 First, run the development server:
 
@@ -14,18 +45,5 @@ pnpm dev
 bun dev
 ```
 
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
